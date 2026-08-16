@@ -1,0 +1,8 @@
+/*cambio el color del titulo a rosa*/
+h1 {color: hotpink;}
+
+/*cambio el color del texto a violeta*/
+p {color: darkmagenta;}
+
+/*cambio el color de la palabra en negrita a verde*/
+strong {color: chartreuse;}
